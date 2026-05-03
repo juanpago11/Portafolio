@@ -74,7 +74,7 @@ search = st.text_input("Buscar app...")
 # TUS APPS
 # ======================
 apps = [
-    {"name": "Camara Teacher Santi", "url": "https://teachersantigomez-camara.streamlit.app"},
+    {"name": "Reconocimiento óptico de Caracteres", "url": "https://teachersantigomez-camara.streamlit.app"},
     {"name": "OCR Audio", "url": "https://ocr-audio-audios.streamlit.app"},
     {"name": "Analisis de Sentimientos", "url": "https://sentimenta-3c8yedfvnfxhtfgzvdhbqw.streamlit.app"},
     {"name": "TDF ESP", "url": "https://tdfesp-rzkctu5ddjvm6nkpflvqs7.streamlit.app"},
@@ -84,7 +84,7 @@ apps = [
     {"name": "Tutorial 1", "url": "https://tutorial1-jp.streamlit.app"},
     {"name": "WordCloud", "url": "https://wordcloud-7kszkwvishrtxxrhyy4fyx.streamlit.app"},
     {"name": "YOLO App", "url": "https://yoloyolo.streamlit.app"},
-    {"name": "Teacher Santi 2", "url": "https://teachersantigomez-mkmqcrhzzxqszzustwgysn.streamlit.app"},
+    {"name": "Conversión de Texto a Audio", "url": "https://teachersantigomez-mkmqcrhzzxqszzustwgysn.streamlit.app"},
     {"name": "Generador de Texto", "url": "https://m6hqytafycpguyxsep4cm9.streamlit.app"},
     {"name": "ChatPDF v1", "url": "https://chatpdfjp-cdtkor4vsr7uqcmtjk2nbe.streamlit.app"},
     {"name": "Analisis de Imagen", "url": "https://chatpdfjp-5vrcvomgplt4cn79ntjkwv.streamlit.app"},
