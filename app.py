@@ -90,7 +90,7 @@ apps = [
     {"name": "Analisis de Imagen", "url": "https://chatpdfjp-5vrcvomgplt4cn79ntjkwv.streamlit.app"},
     {"name": "Adivina el numero", "url": "https://k8lmcvfjjzsskx2hvqgklf.streamlit.app"},
     {"name": "Tablerito", "url": "https://tableritojp.streamlit.app"},
-    {"name": "Animacion", "url": "https://animacion.streamlit.app"},
+    {"name": "Animación", "url": "https://animacion.streamlit.app"},
     {"name": "Receptor MQTT", "url": "https://recepmqtt-ycflymxqfextxujqfyiymf.streamlit.app"},
     {"name": "Sender MQTT", "url": "https://sendcmqtt-khxdd9sdnyxzpxacgud6tm.streamlit.app"},
     {"name": "Control por Voz", "url": "https://ctrlvoice-2vwrbcxcdq5rl27fuyhqbu.streamlit.app"},
