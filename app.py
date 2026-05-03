@@ -81,7 +81,7 @@ apps = [
     {"name": "App Experimental", "url": "https://wtdkiyzuopcmf6zn3yzrfn.streamlit.app"},
     {"name": "Blog Juanpa", "url": "https://tmjuanpablogomez.streamlit.app"},
     {"name": "Traductor", "url": "https://traductor-jptraductor.streamlit.app"},
-    {"name": "Tutorial 1", "url": "https://tutorial1-jp.streamlit.app"},
+    {"name": "Primera app", "url": "https://tutorial1-jp.streamlit.app"},
     {"name": "WordCloud", "url": "https://wordcloud-7kszkwvishrtxxrhyy4fyx.streamlit.app"},
     {"name": "YOLO App", "url": "https://yoloyolo.streamlit.app"},
     {"name": "Conversión de Texto a Audio", "url": "https://teachersantigomez-mkmqcrhzzxqszzustwgysn.streamlit.app"},
